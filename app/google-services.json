@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254216467907",
+    "project_id": "chittootechapp",
+    "storage_bucket": "chittootechapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254216467907:android:288ce7ff03fa366d8ef976",
+        "android_client_info": {
+          "package_name": "com.example.chittootechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254216467907-smtda8jgnjm3v5ffedkk0lcrveaeuof1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rtGkWjp7AdEITEd6k5o_7-ZVSHLFnI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254216467907-smtda8jgnjm3v5ffedkk0lcrveaeuof1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
